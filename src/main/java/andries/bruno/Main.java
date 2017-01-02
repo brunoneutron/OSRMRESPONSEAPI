@@ -1,6 +1,6 @@
 package andries.bruno;
 
-import andries.bruno.osrm_json_match_request.*;
+import andries.bruno.osrm_json_request.*;
 import com.google.gson.Gson;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;

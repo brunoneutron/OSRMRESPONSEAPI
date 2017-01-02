@@ -1,4 +1,4 @@
-package andries.bruno.osrm_json_match_request;
+package andries.bruno.osrm_json_request;
 
 /**
  * Created by andriesbruno on 02/01/2017.
